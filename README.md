@@ -36,7 +36,7 @@ __pycache__/
 *.pyc
 Your final project folder should now look like this:
 
-![image alt](https://github.com/A-Santhosh-Hub/image-converter-web/blob/main/formate.png)
+![image alt](https://github.com/Bala-6478/Image_Converter_Online/blob/main/formate.png)
 
 
 ## Step 2: Push Your Project to GitHub
